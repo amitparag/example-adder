@@ -3,7 +3,7 @@
 [![Pipeline status](https://gitlab.laas.fr/gepetto/example-adder/badges/master/pipeline.svg)](https://gitlab.laas.fr/gepetto/example-adder/commits/master)
 [![Coverage report](https://gitlab.laas.fr/gepetto/example-adder/badges/master/coverage.svg?job=doc-coverage)](http://projects.laas.fr/gepetto/doc/gepetto/example-adder/master/coverage/)
 
-This is an example project, to show how to use Gepetto's tools.It has been modified to work with torchscript.
+This is an example project, to show how to use Gepetto's tools. It has been modified to work with torchscript.
 
 The example-add app is based on [Pytorch-TorchScript](https://pytorch.org/tutorials/advanced/cpp_export.html)
 
