@@ -12,6 +12,9 @@ First, get libtorch:
 We can now run the following commands to build the application from within the example-app/ folder:
 
 mkdir build
+
 cd build
+
 cmake -DCMAKE_PREFIX_PATH=/path/to/libtorch ..
+
 cmake --build . --config Release
