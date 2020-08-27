@@ -9,9 +9,9 @@ The example-add app is based on [Pytorch-TorchScript](https://pytorch.org/tutori
 
 First, get libtorch:
 
-wget https://download.pytorch.org/libtorch/nightly/cpu/libtorch-shared-with-deps-latest.zip
+  wget https://download.pytorch.org/libtorch/nightly/cpu/libtorch-shared-with-deps-latest.zip
 
-unzip libtorch-shared-with-deps-latest.zip
+  unzip libtorch-shared-with-deps-latest.zip
 
 We can now run the following commands to build the application from within the example-app/ folder:
 
